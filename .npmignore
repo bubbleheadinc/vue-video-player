@@ -14,7 +14,7 @@ test/e2e/reports
 gh-pages/
 static/
 build/
-config/
+# config/
 node_modules
 node_modules/
 npm-debug.log
